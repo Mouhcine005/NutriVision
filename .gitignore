@@ -24,3 +24,8 @@ reports/figures/*
 # IDE
 .vscode/
 .idea/
+
+# Final figures kept as Step 1 deliverables
+!reports/figures/food11_class_distribution_final.png
+!reports/figures/food11_image_dimensions.png
+!reports/figures/food11_sample_grid.png
