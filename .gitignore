@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
+.venv-*/
 venv/
 .env
-
 # Jupyter
 .ipynb_checkpoints/
 
@@ -29,5 +29,8 @@ reports/figures/*
 !reports/figures/food11_class_distribution_final.png
 !reports/figures/food11_image_dimensions.png
 !reports/figures/food11_sample_grid.png
+!reports/figures/hit_at_1_comparison.png
+!reports/figures/hit_at_k_comparison.png
+!reports/figures/mrr_comparison.png
 
 data/external/
